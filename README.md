@@ -43,8 +43,9 @@ This script orchestrates the entire end-to-end process, from data loading and pr
 ### `main.py`
 This is the entry point of the project. It allows users to run the entire pipeline by providing the dataset path as a command-line argument.
 
-## Output Pictures
-*Insert images of original MRI images, undersampled images, and reconstructed images here.*
+## Results
+![Reconstruction Results](artifacts/mri_output.png)
+
 
 ## Conclusion
 This project demonstrates the potential of deep learning techniques, particularly autoencoders, in reconstructing undersampled MRI images. By reducing acquisition times, we can enhance patient comfort and improve the efficiency of MRI procedures in clinical settings.
